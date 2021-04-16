@@ -1,2 +1,2 @@
-# web1
+# My Own Web
 Creating my own webpage
